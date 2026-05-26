@@ -1,0 +1,7 @@
+[
+  "tests/test_smoke.py::test_all_modules_import",
+  "tests/test_smoke.py::test_combo_multiplier_caps",
+  "tests/test_smoke.py::test_highscore_round_trip",
+  "tests/test_smoke.py::test_results_grade_thresholds",
+  "tests/test_smoke.py::test_sound_manager_handles_missing_files"
+]
