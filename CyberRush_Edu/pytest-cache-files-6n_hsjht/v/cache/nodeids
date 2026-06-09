@@ -1,0 +1,21 @@
+[
+  "tests/test_game_logic.py::test_game_over_fade_blocks_premature_results",
+  "tests/test_game_logic.py::test_level_climbs_as_speed_grows",
+  "tests/test_game_logic.py::test_level_starts_at_one_before_any_update",
+  "tests/test_game_logic.py::test_level_stays_at_one_after_first_frame",
+  "tests/test_game_logic.py::test_obstacle_car_mode_snaps_to_lane_centre",
+  "tests/test_game_logic.py::test_obstacle_safe_ratio_distribution",
+  "tests/test_game_logic.py::test_obstacle_space_mode_x_stays_clear_of_hud",
+  "tests/test_game_logic.py::test_player_car_mode_stays_within_lanes",
+  "tests/test_game_logic.py::test_player_hit_consumes_a_life_then_grants_iframes",
+  "tests/test_game_logic.py::test_player_space_mode_movement_bounds",
+  "tests/test_game_logic.py::test_round_ends_after_duration",
+  "tests/test_game_logic.py::test_speed_never_exceeds_max_speed",
+  "tests/test_smoke.py::test_all_modules_import",
+  "tests/test_smoke.py::test_combo_multiplier_caps",
+  "tests/test_smoke.py::test_game_pause_on_phishing_hit",
+  "tests/test_smoke.py::test_highscore_round_trip",
+  "tests/test_smoke.py::test_results_grade_thresholds",
+  "tests/test_smoke.py::test_review_and_category_stats",
+  "tests/test_smoke.py::test_sound_manager_handles_missing_files"
+]
